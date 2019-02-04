@@ -1,16 +1,14 @@
 INSERT INTO burgers (
-burger_name,
-devoured
+burger_name
 ) VALUES
 (
-"Beef Double Cheese Burger",
-0
+"Beef Double Cheese Burger"
+
 ),
 (
-"Classic Cheeseburger",
-0
+"Classic Cheeseburger"
+
 ),
 (
-"Bacon and Bleu Cheese Burger",
-0
+"Bacon and Bleu Cheese Burger"
 );
