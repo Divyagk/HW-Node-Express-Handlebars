@@ -54,12 +54,12 @@ li {
       height: 100%;
   }
   body { 
-      background-image: url(http://glimpsesofcharleston.com/wp-content/uploads/2015/02/french-fries17908686_lrg.jpg) ;
+      /* background-image: url(http://glimpsesofcharleston.com/wp-content/uploads/2015/02/french-fries17908686_lrg.jpg) ; */
       background-position: center center;
       background-repeat:  no-repeat;
       background-attachment: fixed;
       background-size:  cover;
-      background-color: #000000;  
+      background-color:#f0e89e;  
   }
   
   div, body{
