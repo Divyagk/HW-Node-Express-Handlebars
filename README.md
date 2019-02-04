@@ -12,9 +12,13 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 
 <h3>Technologies Used:</h3>
 1.MySQL
+
 2.Node .js
+
 3.Express
+
 4.Handlebars
+
 5.ORM
 
 
