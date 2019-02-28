@@ -12,3 +12,6 @@ burger_name
 (
 "Bacon and Bleu Cheese Burger"
 );
+
+
+SELECT * FROM burgers;
